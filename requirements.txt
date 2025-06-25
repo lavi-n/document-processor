@@ -1,0 +1,9 @@
+PySide6
+pdfplumber
+easyocr
+python-docx
+pyttsx3
+fpdf
+transformers
+langid
+torch
